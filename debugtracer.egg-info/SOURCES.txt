@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+debugtracer/__init__.py
+debugtracer/tracer.py
+debugtracer.egg-info/PKG-INFO
+debugtracer.egg-info/SOURCES.txt
+debugtracer.egg-info/dependency_links.txt
+debugtracer.egg-info/top_level.txt
